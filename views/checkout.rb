@@ -1,2 +1,1 @@
-<h1>Items</h1>
-<h3></h3>
+<h3>Items: <%= @session.item %></h3>
